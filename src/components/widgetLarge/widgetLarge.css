@@ -1,0 +1,54 @@
+.widgetLarge{
+    flex: 2.5;
+    -webkit-box-shadow: 19px 18px 40px -19px rgba(0,0,0,0.58);
+    -moz-box-shadow: 19px 18px 40px -19px rgba(0,0,0,0.58);
+    box-shadow: 19px 18px 40px -19px rgba(0,0,0,0.58);
+    padding: 20px;
+    margin-top: 30px;
+}
+
+.widgetLargeTitle {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.widgetLargeTable{
+    width: 100%;
+    border-spacing: 20px;
+}
+
+.widgetLargeTh{
+    text-align: left;
+}
+
+.widgetLargeUser{
+    display: flex;
+    align-items: center;
+    font-weight: 600;
+}
+.widgetLargeImg{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 10px;
+}
+
+.widgetLargeButton{
+    padding: 5px 7px;
+    border: none;
+    border-radius: 10px;
+}
+
+.widgetLargeButton.Approved{
+    background-color: lightgreen;
+}
+
+.widgetLargeButton.Declined{
+    background-color: red;
+}
+
+.widgetLargeButton.Pending{
+    background-color: lightyellow;
+}
+
