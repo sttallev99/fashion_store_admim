@@ -13,6 +13,7 @@ import WorkOutlineOutlinedIcon from '@mui/icons-material/WorkOutlineOutlined';
 import ReportOutlinedIcon from '@mui/icons-material/ReportOutlined';
 
 import './sidebar.css';
+import { Link } from 'react-router-dom';
 
 const Sidebar = () => {
   return (
@@ -21,10 +22,12 @@ const Sidebar = () => {
         <div className='sidebarMenu'>
             <h3 className='sidebarTitle'>Dashboard</h3>
             <ul className='sidebarList'>
-                <li className='sidebarListItem'>
-                    <HomeIcon className='sidebarIcon'/>
-                    Home
-                </li>
+                <Link to='/'>
+                    <li className='sidebarListItem'>
+                        <HomeIcon className='sidebarIcon'/>
+                        Home
+                    </li>
+                </Link>
                 <li className='sidebarListItem'>
                     <BarChartIcon className='sidebarIcon'/>
                     Analytics
@@ -38,10 +41,12 @@ const Sidebar = () => {
         <div className='sidebarMenu'>
             <h3 className='sidebarTitle'>Quick Menu</h3>
             <ul className='sidebarList'>
-                <li className='sidebarListItem'>
-                    <PersonOutlineIcon className='sidebarIcon'/>
-                    Users
-                </li>
+                <Link to='/users'>
+                    <li className='sidebarListItem'>
+                        <PersonOutlineIcon className='sidebarIcon'/>
+                        Users
+                    </li>
+                </Link>
                 <li className='sidebarListItem'>
                     <StorefrontIcon className='sidebarIcon'/>
                     Products

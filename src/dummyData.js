@@ -47,4 +47,167 @@ export const userData = [
           name: 'Dec',
           'Active User': 8056
         },
-    ];
+];
+
+export const userRows = [
+  {
+    id: 1,
+    username: 'sttallev99',
+    avatar: 'https://t4.ftcdn.net/jpg/04/10/43/77/360_F_410437733_hdq4Q3QOH9uwh0mcqAhRFzOKfrCR24Ta.jpg',
+    email: 'sttallev99@gmail.com',
+    status: 'active',
+    transaction: '$120.00'
+  },
+  {
+    id: 2,
+    username: 'pesho03',
+    avatar: 'https://t4.ftcdn.net/jpg/04/10/43/77/360_F_410437733_hdq4Q3QOH9uwh0mcqAhRFzOKfrCR24Ta.jpg',
+    email: 'pesho039@gmail.com',
+    status: 'active',
+    transaction: '$120.00'
+  },
+  {
+    id: 3,
+    username: 'ivan03',
+    avatar: 'https://t4.ftcdn.net/jpg/04/10/43/77/360_F_410437733_hdq4Q3QOH9uwh0mcqAhRFzOKfrCR24Ta.jpg',
+    email: 'ivan03@gmail.com',
+    status: 'active',
+    transaction: '$120.00'
+  },
+  {
+    id: 4,
+    username: 'teodor04',
+    avatar: 'https://t4.ftcdn.net/jpg/04/10/43/77/360_F_410437733_hdq4Q3QOH9uwh0mcqAhRFzOKfrCR24Ta.jpg',
+    email: 'teodor04@gmail.com',
+    status: 'active',
+    transaction: '$120.00'
+  },
+  {
+    id: 5,
+    username: 'stamat02',
+    avatar: 'https://t4.ftcdn.net/jpg/04/10/43/77/360_F_410437733_hdq4Q3QOH9uwh0mcqAhRFzOKfrCR24Ta.jpg',
+    email: 'stamat02@gmail.com',
+    status: 'active',
+    transaction: '$120.00'
+  },
+  {
+    id: 6,
+    username: 'nikolai01',
+    avatar: 'https://t4.ftcdn.net/jpg/04/10/43/77/360_F_410437733_hdq4Q3QOH9uwh0mcqAhRFzOKfrCR24Ta.jpg',
+    email: 'nikolai019@gmail.com',
+    status: 'active',
+    transaction: '$120.00'
+  },
+  {
+    id: 7,
+    username: 'nikolai01',
+    avatar: 'https://t4.ftcdn.net/jpg/04/10/43/77/360_F_410437733_hdq4Q3QOH9uwh0mcqAhRFzOKfrCR24Ta.jpg',
+    email: 'nikolai019@gmail.com',
+    status: 'active',
+    transaction: '$120.00'
+  },
+  {
+    id: 8,
+    username: 'nikolai01',
+    avatar: 'https://t4.ftcdn.net/jpg/04/10/43/77/360_F_410437733_hdq4Q3QOH9uwh0mcqAhRFzOKfrCR24Ta.jpg',
+    email: 'nikolai019@gmail.com',
+    status: 'active',
+    transaction: '$120.00'
+  },
+  {
+    id: 9,
+    username: 'nikolai01',
+    avatar: 'https://t4.ftcdn.net/jpg/04/10/43/77/360_F_410437733_hdq4Q3QOH9uwh0mcqAhRFzOKfrCR24Ta.jpg',
+    email: 'nikolai019@gmail.com',
+    status: 'active',
+    transaction: '$120.00'
+  },
+  {
+    id: 10,
+    username: 'nikolai01',
+    avatar: 'https://t4.ftcdn.net/jpg/04/10/43/77/360_F_410437733_hdq4Q3QOH9uwh0mcqAhRFzOKfrCR24Ta.jpg',
+    email: 'nikolai019@gmail.com',
+    status: 'active',
+    transaction: '$120.00'
+  },
+  {
+    id: 11,
+    username: 'nikolai01',
+    avatar: 'https://t4.ftcdn.net/jpg/04/10/43/77/360_F_410437733_hdq4Q3QOH9uwh0mcqAhRFzOKfrCR24Ta.jpg',
+    email: 'nikolai019@gmail.com',
+    status: 'active',
+    transaction: '$120.00'
+  },
+  {
+    id: 12,
+    username: 'nikolai01',
+    avatar: 'https://t4.ftcdn.net/jpg/04/10/43/77/360_F_410437733_hdq4Q3QOH9uwh0mcqAhRFzOKfrCR24Ta.jpg',
+    email: 'nikolai019@gmail.com',
+    status: 'active',
+    transaction: '$120.00'
+  },
+  {
+    id: 13,
+    username: 'nikolai01',
+    avatar: 'https://t4.ftcdn.net/jpg/04/10/43/77/360_F_410437733_hdq4Q3QOH9uwh0mcqAhRFzOKfrCR24Ta.jpg',
+    email: 'nikolai019@gmail.com',
+    status: 'active',
+    transaction: '$120.00'
+  },
+  {
+    id: 14,
+    username: 'nikolai01',
+    avatar: 'https://t4.ftcdn.net/jpg/04/10/43/77/360_F_410437733_hdq4Q3QOH9uwh0mcqAhRFzOKfrCR24Ta.jpg',
+    email: 'nikolai019@gmail.com',
+    status: 'active',
+    transaction: '$120.00'
+  },
+  {
+    id: 15,
+    username: 'nikolai01',
+    avatar: 'https://t4.ftcdn.net/jpg/04/10/43/77/360_F_410437733_hdq4Q3QOH9uwh0mcqAhRFzOKfrCR24Ta.jpg',
+    email: 'nikolai019@gmail.com',
+    status: 'active',
+    transaction: '$120.00'
+  },
+  {
+    id: 16,
+    username: 'nikolai01',
+    avatar: 'https://t4.ftcdn.net/jpg/04/10/43/77/360_F_410437733_hdq4Q3QOH9uwh0mcqAhRFzOKfrCR24Ta.jpg',
+    email: 'nikolai019@gmail.com',
+    status: 'active',
+    transaction: '$120.00'
+  },
+  {
+    id: 17,
+    username: 'nikolai01',
+    avatar: 'https://t4.ftcdn.net/jpg/04/10/43/77/360_F_410437733_hdq4Q3QOH9uwh0mcqAhRFzOKfrCR24Ta.jpg',
+    email: 'nikolai019@gmail.com',
+    status: 'active',
+    transaction: '$120.00'
+  },
+  {
+    id: 18,
+    username: 'nikolai01',
+    avatar: 'https://t4.ftcdn.net/jpg/04/10/43/77/360_F_410437733_hdq4Q3QOH9uwh0mcqAhRFzOKfrCR24Ta.jpg',
+    email: 'nikolai019@gmail.com',
+    status: 'active',
+    transaction: '$120.00'
+  },
+  {
+    id: 19,
+    username: 'nikolai01',
+    avatar: 'https://t4.ftcdn.net/jpg/04/10/43/77/360_F_410437733_hdq4Q3QOH9uwh0mcqAhRFzOKfrCR24Ta.jpg',
+    email: 'nikolai019@gmail.com',
+    status: 'active',
+    transaction: '$120.00'
+  },
+  {
+    id: 20,
+    username: 'nikolai01',
+    avatar: 'https://t4.ftcdn.net/jpg/04/10/43/77/360_F_410437733_hdq4Q3QOH9uwh0mcqAhRFzOKfrCR24Ta.jpg',
+    email: 'nikolai019@gmail.com',
+    status: 'active',
+    transaction: '$120.00'
+  }
+];
