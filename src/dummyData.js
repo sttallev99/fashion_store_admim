@@ -211,3 +211,86 @@ export const userRows = [
     transaction: '$120.00'
   }
 ];
+
+export const productRows = [
+  {
+    id: 1,
+    name: 'Apple Airpods 2.0 pro',
+    img: 'https://s13emagst.akamaized.net/products/21114/21113101/images/res_90440195468b1f4f121813a36324bc5d.jpeg?width=450&height=450&hash=E6FF00F23D82BE7FD6E0279FC71375C8',
+    stock: 123,
+    status: 'active',
+    price: '$120.00'
+  },
+  {
+    id: 2,
+    name: 'Apple Airpods 2.0 pro',
+    img: 'https://s13emagst.akamaized.net/products/21114/21113101/images/res_90440195468b1f4f121813a36324bc5d.jpeg?width=450&height=450&hash=E6FF00F23D82BE7FD6E0279FC71375C8',
+    stock: 123,
+    status: 'active',
+    price: '$120.00'
+  },
+  {
+    id: 3,
+    name: 'Apple Airpods 2.0 pro',
+    img: 'https://s13emagst.akamaized.net/products/21114/21113101/images/res_90440195468b1f4f121813a36324bc5d.jpeg?width=450&height=450&hash=E6FF00F23D82BE7FD6E0279FC71375C8',
+    stock: 123,
+    status: 'active',
+    price: '$120.00'
+  },
+  {
+    id: 4,
+    name: 'Apple Airpods 2.0 pro',
+    img: 'https://s13emagst.akamaized.net/products/21114/21113101/images/res_90440195468b1f4f121813a36324bc5d.jpeg?width=450&height=450&hash=E6FF00F23D82BE7FD6E0279FC71375C8',
+    stock: 123,
+    status: 'active',
+    price: '$120.00'
+  },
+  {
+    id: 5,
+    name: 'Apple Airpods 2.0 pro',
+    img: 'https://s13emagst.akamaized.net/products/21114/21113101/images/res_90440195468b1f4f121813a36324bc5d.jpeg?width=450&height=450&hash=E6FF00F23D82BE7FD6E0279FC71375C8',
+    stock: 123,
+    status: 'active',
+    price: '$120.00'
+  },
+  {
+    id: 6,
+    name: 'Apple Airpods 2.0 pro',
+    img: 'https://s13emagst.akamaized.net/products/21114/21113101/images/res_90440195468b1f4f121813a36324bc5d.jpeg?width=450&height=450&hash=E6FF00F23D82BE7FD6E0279FC71375C8',
+    stock: 123,
+    status: 'active',
+    price: '$120.00'
+  },
+  {
+    id: 7,
+    name: 'Apple Airpods 2.0 pro',
+    img: 'https://s13emagst.akamaized.net/products/21114/21113101/images/res_90440195468b1f4f121813a36324bc5d.jpeg?width=450&height=450&hash=E6FF00F23D82BE7FD6E0279FC71375C8',
+    stock: 123,
+    status: 'active',
+    price: '$120.00'
+  },
+  {
+    id: 8,
+    name: 'Apple Airpods 2.0 pro',
+    img: 'https://s13emagst.akamaized.net/products/21114/21113101/images/res_90440195468b1f4f121813a36324bc5d.jpeg?width=450&height=450&hash=E6FF00F23D82BE7FD6E0279FC71375C8',
+    stock: 123,
+    status: 'active',
+    price: '$120.00'
+  },
+  {
+    id: 9,
+    name: 'Apple Airpods 2.0 pro',
+    img: 'https://s13emagst.akamaized.net/products/21114/21113101/images/res_90440195468b1f4f121813a36324bc5d.jpeg?width=450&height=450&hash=E6FF00F23D82BE7FD6E0279FC71375C8',
+    stock: 123,
+    status: 'active',
+    price: '$120.00'
+  },
+  {
+    id: 10,
+    name: 'Apple Airpods 2.0 pro',
+    img: 'https://s13emagst.akamaized.net/products/21114/21113101/images/res_90440195468b1f4f121813a36324bc5d.jpeg?width=450&height=450&hash=E6FF00F23D82BE7FD6E0279FC71375C8',
+    stock: 123,
+    status: 'active',
+    price: '$120.00'
+  },
+];
