@@ -43,7 +43,7 @@ const ProductList = () => {
             renderCell: (params) => {
               return (
                 <>
-                <Link to={`/user/${params.row.id}`} style={{textDecoration: 'none'}}>
+                <Link to={`/product/${params.row.id}`} style={{textDecoration: 'none'}}>
                   <button className='productListEdit'>
                     <EditIcon style={{paddingRight: '5px'}}/>
                     Edit
