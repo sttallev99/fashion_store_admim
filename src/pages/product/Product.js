@@ -77,7 +77,9 @@ const Product = () => {
                     </label>
                     <input type='file' id='file' style={{display: 'none'}} />
                 </div>
-                <button className='productButton'>Update</button>
+                <Link to='/newProduct'>
+                    <button className='productButton'>Update</button>
+                </Link>
             </div>
         </form>
       </div>
