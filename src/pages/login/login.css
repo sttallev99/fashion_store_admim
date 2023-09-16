@@ -1,0 +1,68 @@
+.login{
+    flex: 4;
+    background-color: #28A8FC;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.loginFormWrapper{
+    width: 40%;
+    background-color: white;
+    padding: 40px;
+    border-radius: 15px;
+}
+
+.loginForm{
+    display: flex;
+    flex-direction: column;
+}
+
+.loginFormTitle{
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 28px;
+}
+.loginFormTitle>span{
+    font-weight: 300;
+    
+}
+
+.loginFormField{
+    margin-bottom: 20px;
+    border: 1px solid gray;
+    border-radius: 15px;
+    height: 35px;
+    padding-left: 20px;
+}
+
+.loginFormField>input{
+    height: 30px;
+    border: none;
+    width: max-content;
+    width: 95%;
+}
+
+.loginForm>button{
+    width: 30%;
+    margin: 0 auto;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+    background-color: darkblue;
+    color: white;
+    cursor: pointer;
+    font-weight: 600;
+}
+
+.forgotPass{
+    text-align: center;
+    margin-top: 40px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+.forgotPass > a {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    cursor: pointer;
+    text-decoration: underline;
+}
